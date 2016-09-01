@@ -1,0 +1,2074 @@
+Archive member included because of file (symbol)
+
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (__aeabi_dsub)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (__aeabi_ddiv)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+                              build/src/main.o (__aeabi_dcmpeq)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (__aeabi_d2f)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o)
+                              build/src/drivers/BMP280.o (__aeabi_ldivmod)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o) (__divdi3)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o) (__udivdi3)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+                              build/src/ble.o (memcpy)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+                              build/src/ble.o (memset)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+                              build/src/main.o (sprintf)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o) (_impure_ptr)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (memchr)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o) (strcmp)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (strlen)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o) (_free_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o) (errno)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (atan)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o) (fabs)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (pow)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+                              build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o (sqrt)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (finite)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (__fdlib_version)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (matherr)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o) (nan)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (rint)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o) (scalbn)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o) (copysign)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+                              c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+end_t               0x8               build/src/main.o
+uniq                0x8               build/src/main.o
+msg                 0x50              build/src/main.o
+tz1em_BLE_IDLE      0x3a              build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+start_t             0x8               build/src/main.o
+val                 0x4               build/src/main.o
+tz1em_BLE_NC_ADV    0x3a              build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+buf                 0xa               build/src/main.o
+tz1em_BLE_CN_ADV    0x3a              build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+tz1em_BLE_CONN      0x3a              build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+twic_eq             0x250             build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x00000000         0x00100000         xr
+RAM              0x10000000         0x00040000         xrw
+RAM2             0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+LOAD build/src/main.o
+LOAD build/src/ble.o
+LOAD build/src/pwm_out.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_console.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+LOAD build/src/boards/CDP-TZ01B/TZ01_system.o
+LOAD build/src/drivers/BMP280.o
+LOAD build/src/drivers/MPU-9250.o
+LOAD build/src/utils/utils.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+LOAD build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+LOAD build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+LOAD build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+LOAD build/bootloader_TZ10xx.o
+LOAD build/startup_TZ10xx.o
+START GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
+END GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+START GROUP
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a
+LOAD c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a
+END GROUP
+                0x00000000                . = ORIGIN (ROM)
+
+.boot           0x00000000       0xfc
+ *(.boot)
+ .boot          0x00000000       0xfc build/bootloader_TZ10xx.o
+                0x00000044                BootLoader
+                0x000000fc                __eboot = (LOADADDR (.boot) + SIZEOF (.boot))
+
+.text           0x10000000    0x2bb6c load address 0x000000fc
+                0x10000000                __code_start__ = .
+ *(.vectors)
+ .vectors       0x10000000      0x178 build/startup_TZ10xx.o
+                0x10000000                __Vectors
+ *(.startup)
+ .startup       0x10000178       0x1c build/startup_TZ10xx.o
+                0x10000178                Reset_Handler
+ *(.text .text.*)
+ .text          0x10000194        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+                0x10000194                _start
+ .text          0x100001a0      0x2f0 build/src/main.o
+                0x1000032c                callback_a
+                0x10000354                main
+ .text          0x10000490     0x1148 build/src/ble.o
+                0x10000638                connectionCompleteCb
+                0x1000066c                connectionUpdateCb
+                0x10000688                disconnectCb
+                0x100006e0                mtuExchangeDemandCb
+                0x10000724                mtuExchangeResultCb
+                0x10000760                notificationSentCb
+                0x10000774                indicationConfirmCb
+                0x10000788                updateCompleteCb
+                0x1000079c                queuedWriteCompleteCb
+                0x100007b0                readoutDemandCb
+                0x100007cc                writeinDemandCb
+                0x10000bd8                writeinPostCb
+                0x10000bf4                isrNewEventCb
+                0x10000c00                isrWakeupCb
+                0x10000c0c                BLE_init_dev
+                0x10000c7c                BLE_init
+                0x10000e4c                ble_distance
+                0x100011f4                BLE_main
+                0x100014c8                BLE_stop
+ .text          0x100015d8      0x208 build/src/pwm_out.o
+                0x100015d8                pwm_out_init
+                0x1000167c                pwm_out_start
+                0x100017ac                pwm_out_stop
+ .text          0x100017e0       0x84 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+                0x100017e0                TZ01_airpressure_init
+                0x10001804                TZ01_airpressure_temp_read
+                0x10001834                TZ01_airpressure_press_read
+ .text          0x10001864      0x260 build/src/boards/CDP-TZ01B/TZ01_console.o
+                0x10001864                TZ01_console_init
+                0x100018bc                TZ01_console_getc
+                0x10001910                TZ01_console_putc
+                0x10001940                TZ01_console_gets
+                0x100019c4                TZ01_console_puts
+                0x10001a44                TZ01_console_read
+                0x10001a84                TZ01_console_write
+ *fill*         0x10001ac4        0x4 
+ .text          0x10001ac8      0x548 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+                0x10001ac8                TZ01_motion_tracker_init
+                0x10001b08                TZ01_motion_tracker_gyro_read
+                0x10001b88                TZ01_motion_tracker_accel_read
+                0x10001c08                TZ01_motion_tracker_temperature_read
+                0x10001cb4                TZ01_motion_tracker_magnetometer_read
+                0x10001d34                TZ01_motion_tracker_acc_axis_angle
+                0x10001d6c                TZ01_motion_tracker_compute_axis_angle
+ .text          0x10002010      0x4dc build/src/boards/CDP-TZ01B/TZ01_system.o
+                0x10002128                TZ01_system_tick_clear
+                0x10002168                TZ01_system_tick_start
+                0x100021d8                TZ01_system_tick_stop
+                0x10002214                TZ01_system_tick_is_active
+                0x10002240                TZ01_system_tick_check_timeout
+                0x100022a8                TZ01_system_init
+                0x100023f0                TZ01_system_run
+ .text          0x100024ec      0x950 build/src/drivers/BMP280.o
+                0x100024ec                BMP280_drv_reset
+                0x10002528                BMP280_drv_id_get
+                0x1000257c                BMP280_drv_status_get
+                0x100025d0                BMP280_drv_ctrl_meas_set
+                0x10002610                BMP280_drv_ctrl_meas_get
+                0x10002664                BMP280_drv_config_set
+                0x100026a4                BMP280_drv_config_get
+                0x100026f8                BMP280_drv_press_get
+                0x10002b14                BMP280_drv_temp_get
+                0x10002d68                BMP280_drv_init
+ .text          0x10002e3c      0x904 build/src/drivers/MPU-9250.o
+                0x10002f2c                MPU9250_drv_init
+                0x1000311c                MPU9250_drv_start_maesure
+                0x10003330                MPU9250_drv_stop_maesure
+                0x10003360                MPU9250_drv_read_gyro
+                0x10003458                MPU9250_drv_read_accel
+                0x10003550                MPU9250_drv_read_temperature
+                0x100035ac                MPU9250_drv_read_magnetometer
+ .text          0x10003740       0x7c build/src/utils/utils.o
+                0x10003740                Usleep
+ .text          0x100037bc      0x1a8 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .text          0x10003964      0x2d8 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+                0x10003b0c                twicUtAncsNcNsCb
+                0x10003b20                twicUtAncsNcDsCb
+                0x10003b34                twicUtAncsPrimaryServiceByUuidCb
+                0x10003b58                twicUtAncsAllCharOfServiceCb
+                0x10003b7c                twicUtAncsAllCharDescriptorsCb
+                0x10003ba0                twicUtAncsCharDespWriteinResponseCb
+                0x10003bb8                twicUtAncsCharValueWriteinResponseCb
+                0x10003bd0                twicUtAncsNcNotificationCb
+                0x10003bec                twicUtAncsSetupNc
+                0x10003c00                twicUtAncsStopNc
+                0x10003c14                twicUtAncsStartNc
+                0x10003c28                twicUtAncsRunNc
+ .text          0x10003c3c      0x260 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+                0x10003de4                twicUtHrpSetupService
+                0x10003df4                twicUtHrpStopNotification
+                0x10003e04                twicUtHrpDescriptorChange
+                0x10003e1c                twicUtHrpReadOut
+                0x10003e3c                twicUtHrpWrittenIn
+                0x10003e58                twicUtHrpTimerSetup
+                0x10003e68                twicUtHrpTimerCleanup
+                0x10003e78                twicUtHrpCongestionCheck
+                0x10003e88                twicUtHrpRun
+ .text          0x10003e9c      0xb24 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+                0x100043a0                twicUtLeCeInit0
+                0x100043bc                twicUtLeCeInit1
+                0x100045b4                twicUtLeCeInit2
+                0x100048b8                twicUtLeCeInit3
+ .text          0x100049c0     0x1094 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+                0x100050f8                twicUtPrintVal
+                0x10005124                twicUtPrintBdAddr
+                0x10005138                twicUtDisplayTwicErrorList
+                0x10005144                twicUtDoEvent
+                0x1000515c                twicUtPeekInApiWithValue
+                0x100051b8                twicUtPeekInApi
+                0x10005214                twicUtDbPeekInApi
+                0x10005284                twicUtCheckAndDoEvent
+                0x100052b8                twicUtLeConnectionUpdate
+                0x1000533c                twicUtGattServerWriteCharacteristics
+                0x100053ac                twicUtGattClientExgMtu
+                0x100053c8                twicUtGattServerExgMtuResponse
+                0x10005430                twicUtGattServerCharValMultiReadOutResponse
+                0x1000549c                twicUtGattServerCharValReadOutResponse
+                0x10005508                twicUtGattServerCharDespReadOutResponse
+                0x10005570                twicUtGattServerCharValWriteInResponse
+                0x100055dc                twicUtGattServerCharDespWriteInResponse
+                0x10005644                twicUtGattNotification
+                0x100056ac                twicUtGattIndication
+                0x10005714                twicUtLeStopAdvertising
+                0x10005770                twicUtLeDisconnect
+                0x100057d0                twicUtLeCeLowPowerMode
+                0x10005840                twicUtLeSetScanEnable
+                0x1000586c                twicUtLeSetScanDisable
+                0x10005884                twicUtLeCreateConnection
+                0x10005924                twicUtLeCreateConnectionCancel
+                0x10005980                twicUtLeCeLowPowerControlPinSetup
+                0x100059e4                twicUtLeCeLowPower
+ .text          0x10005a54      0x1a8 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .text          0x10005bfc      0x1c0 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+                0x10005da4                twicUtInitGattService
+ .text          0x10005dbc      0x288 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+                0x10005f64                twicUtUdpSetupService
+                0x10005f74                twicUtUdpStopNotification
+                0x10005f84                twicUtUdpStopIndication
+                0x10005f94                twicUtUdpDescriptorChange
+                0x10005fac                twicUtUdpReadOut
+                0x10005fcc                twicUtUdpWrittenIn
+                0x10005fe8                twicUtUdpTimerSetup
+                0x10005ff8                twicUtUdpTimerCleanup
+                0x10006008                twicUtUdpCongestionCheck
+                0x10006018                twicUtUdpRun
+                0x1000602c                twicUtUdpIndicationConfirmation
+ .text          0x10006044     0x1cfc build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+                0x100060f8                tz1smHalDebugUartInit
+                0x10006104                tz1smHalDebugUartUnInit
+                0x10006110                tz1smHalTimerCreate
+                0x10006158                tz1smHalTimerDelete
+                0x10006174                tz1smHalTimerStart
+                0x100061b4                tz1smHalTimerStop
+                0x100061e0                tz1smHalTimerFakeAlarmTrigger
+                0x10006300                tz1smHalMutexCreate
+                0x1000631c                tz1smHalMutexWait
+                0x10006340                tz1smHalMutexRelease
+                0x1000635c                tz1smHalMutexDelete
+                0x10006378                tz1smHalOsYeild
+                0x10006388                tz1smHalLePmuStart
+                0x100063f4                tz1smHalLePmuStatus
+                0x10006444                tz1smHalLePmuStop
+                0x100064b0                tz1smHalLePmuClockSourceState32K
+                0x10006500                tz1smHalPmuButtonInit
+                0x1000652c                tz1smHalPmuButtonFinalize
+                0x10006558                tz1smHalPmuLedInit
+                0x10006568                tz1smHalPmuLedFinalize
+                0x10006578                tz1smHalInitializePcdSystem
+                0x1000664c                tz1smStartClock
+                0x100067dc                tz1smStopClock
+                0x10006808                tz1smHalGetCurrentVf
+                0x1000681c                tz1smHalSetVf
+                0x100069b8                tz1smHalPmuLowPowerPcd
+                0x10006ad4                tz1smHalPmuHighPowerPcd
+                0x10006ba8                tz1smHalConfigureWakeup
+                0x10006be8                tz1smHalEnableWakeup
+                0x10006c38                tz1smHalOperationMode
+                0x10006d90                tz1smHalRegisterCb
+                0x10006dc0                tz1smHalGpioInit
+                0x10006df8                tz1smHalGpioUnInit
+                0x10006e08                tz1smHalGpioRead
+                0x10006e54                tz1smHalGpioWrite
+                0x10006e90                tz1smHalIsrBleHostWakeup
+                0x10006ea8                tz1smHalIsrBleStatus
+                0x10006ec0                tz1smHalGpioBleReset
+                0x10006fe8                tz1smHalGpioBleWakeUp
+                0x10007004                tz1smHalGpioBleLowpowerStatus
+                0x10007020                tz1smHalGpioBleHostWakeupStatus
+                0x1000703c                tz1smHalGpioBleHostLowpowerStatus
+                0x10007060                tz1smHalGpioButtonInit
+                0x10007094                tz1smHalGpioButtonFinalize
+                0x100070c4                tz1smHalGpioLedInit
+                0x10007114                tz1smHalGpioLedFinalize
+                0x1000715c                tz1smHalUartInit
+                0x10007228                tz1smHalUartControl
+                0x100072b8                tz1smHalUartUnInit
+                0x10007300                tz1smHalUartTxBufFlush
+                0x10007354                tz1smHalUartRxBufFlush
+                0x100073a8                tz1smHalUartPostData
+                0x100075c8                tz1smHalUartSendData
+                0x10007828                tz1smHalUartPeekData
+                0x100079d4                tz1smHalUartGetData
+                0x10007cb4                tz1smHalUartLowPower
+                0x10007cec                tz1smHalUartDataAvailable
+                0x10007d2c                tz1smHalSuppressHpd
+ .text          0x10007d40       0x3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+                0x10007d40                SystemCoreClockUpdate
+                0x10007d5c                SystemInit
+ .text          0x10007d7c     0x17e0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+                0x10008c80                ADVTMR0_IRQHandler
+                0x10008c90                ADVTMR0_CAP_IRQHandler
+                0x10008ca0                ADVTMR0_CMP_IRQHandler
+                0x10008f64                ADVTMR1_IRQHandler
+                0x10008f74                ADVTMR1_CAP_IRQHandler
+                0x10008f84                ADVTMR1_CMP_IRQHandler
+                0x10009248                ADVTMR2_IRQHandler
+                0x10009258                ADVTMR2_CAP_IRQHandler
+                0x10009268                ADVTMR2_CMP_IRQHandler
+                0x1000952c                ADVTMR3_IRQHandler
+                0x1000953c                ADVTMR3_CAP_IRQHandler
+                0x1000954c                ADVTMR3_CMP_IRQHandler
+ .text          0x1000955c      0xd00 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+                0x1000a0dc                GPIO_Pin0_IRQHandler
+                0x1000a0e8                GPIO_Pin1_IRQHandler
+                0x1000a0f4                GPIO_Pin2_IRQHandler
+                0x1000a100                GPIO_Pin3_IRQHandler
+                0x1000a10c                GPIO_Pin4_IRQHandler
+                0x1000a118                GPIO_Pin5_IRQHandler
+                0x1000a124                GPIO_Pin6_IRQHandler
+                0x1000a130                GPIO_Pin7_IRQHandler
+                0x1000a13c                GPIO_Pin8_IRQHandler
+                0x1000a148                GPIO_Pin9_IRQHandler
+                0x1000a154                GPIO_Pin10_IRQHandler
+                0x1000a160                GPIO_Pin11_IRQHandler
+                0x1000a16c                GPIO_Pin12_IRQHandler
+                0x1000a178                GPIO_Pin13_IRQHandler
+                0x1000a184                GPIO_Pin14_IRQHandler
+                0x1000a190                GPIO_Pin15_IRQHandler
+                0x1000a19c                GPIO_Pin16_IRQHandler
+                0x1000a1a8                GPIO_Pin17_IRQHandler
+                0x1000a1b4                GPIO_Pin18_IRQHandler
+                0x1000a1c0                GPIO_Pin19_IRQHandler
+                0x1000a1cc                GPIO_Pin20_IRQHandler
+                0x1000a1d8                GPIO_Pin21_IRQHandler
+                0x1000a1e4                GPIO_Pin22_IRQHandler
+                0x1000a1f0                GPIO_Pin23_IRQHandler
+                0x1000a1fc                GPIO_Pin24_IRQHandler
+                0x1000a208                GPIO_Pin25_IRQHandler
+                0x1000a214                GPIO_Pin26_IRQHandler
+                0x1000a220                GPIO_Pin27_IRQHandler
+                0x1000a22c                GPIO_Pin28_IRQHandler
+                0x1000a238                GPIO_Pin29_IRQHandler
+                0x1000a244                GPIO_Pin30_IRQHandler
+                0x1000a250                GPIO_Pin31_IRQHandler
+ .text          0x1000a25c      0xe3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+                0x1000af0c                I2C1_IRQHandler
+                0x1000b088                I2C2_IRQHandler
+ .text          0x1000b098     0x3e58 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+                0x1000c8d4                PMU_MakeWakeupMasks
+                0x1000ed7c                PMU_WKUP_IRQHandler
+ .text          0x1000eef0      0x1d8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .text          0x1000f0c8      0xdc8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+                0x1000fd10                SDMAC0_IRQHandler
+                0x1000fd40                SDMAC1_IRQHandler
+                0x1000fd70                SDMAC2_IRQHandler
+                0x1000fda0                SDMAC3_IRQHandler
+                0x1000fdd0                SDMAC4_IRQHandler
+                0x1000fe00                SDMAC5_IRQHandler
+                0x1000fe30                SDMAC6_IRQHandler
+                0x1000fe60                SDMAC7_IRQHandler
+ .text          0x1000fe90      0xf3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+                0x10010dbc                SPIM3_IRQHandler
+ .text          0x10010dcc      0x8e4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+                0x1001156c                TMR0_IRQHandler
+                0x100116a0                TMR1_IRQHandler
+ .text          0x100116b0     0x1054 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+                0x100124fc                UART1_IRQHandler
+                0x100126f4                UART2_IRQHandler
+ .text          0x10012704      0x578 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+                0x100128ac                twicHashCreate
+                0x10012978                twicHashIsEmpty
+                0x100129c0                twicHashInsert1stHandle
+                0x100129ec                twicHashInsert2ndHandle
+                0x10012a18                twicHashFind1stHandle
+                0x10012a78                twicHashFind2ndHandle
+                0x10012ad8                twicHashRemove1stHandle
+                0x10012b64                twicHashRemove2ndHandle
+                0x10012bf0                twicHashCleanupInterface
+ .text          0x10012c7c     0x2d68 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+                0x10012e84                twicIfLeIoInitialize
+                0x10012f78                twicIfleIoStatus
+                0x10012fb8                twicIfLeIoFinalize
+                0x10013044                twicIfGattInitialize
+                0x1001319c                twicIfGattCleanup
+                0x100131f4                _twicIfLeCeHkTimeout
+                0x10013258                twicIfIsDone
+                0x100132f4                twicIfDbIsDone
+                0x10013470                _twicIfLeCePatch
+                0x10013560                _twicIfLeCeFlowControl
+                0x100135e8                _twicIfLeCeSetBaudrate
+                0x10013684                _twicIfLeCeHostDelay
+                0x1001370c                _twicIfLeCeLowPowerPrimarySetup
+                0x100137a8                _twicIfLeCeLowPowerClockSetup
+                0x1001384c                _twicIfLeCeLowPowerControlPinSetup
+                0x100138e4                _twicIfLeCeLowPowerDiscoverableSetup
+                0x10013968                _twicIfLeCeHkLowPowerInfo
+                0x100139c0                _twicIfLeCeHkLowPowerTransition
+                0x10013a34                _twicIfLeCeInitializeTz1em
+                0x10013aa0                _twicIfLeCeConfigureTz1em
+                0x10013c20                _twicIfLeCeWithdrawalFromTz1em
+                0x10013d2c                _twicIfLeCePermitTz1em
+                0x10013db0                _twicIfLeCeHkTz1emInfo
+                0x10013e58                _twicIfLeCeLowPowerMode
+                0x10013f2c                _twicIfLeReadBdaddr
+                0x10013fac                _twicIfLeWriteBdaddr
+                0x10014030                _twicIfLeCeChangeToCm
+                0x100140b0                _twicIfLeInitializeDevice
+                0x10014158                _twicIfLeGattClientStart
+                0x100141e4                _twicIfLeConnectionUpdate
+                0x100142cc                _twicIfLeDisconnect
+                0x10014350                _twicIfLeGattServerStart
+                0x100143dc                _twicIfLeReadTxPowerLevel
+                0x10014474                _twicIfLeReadRssi
+                0x100144f8                _twicIfLeReadRemoteVersion
+                0x10014578                _twicIfLeCreateConnection
+                0x100146a0                _twicIfLeCreateConnectionCancel
+                0x1001472c                _twicIfLeReadRemoteUsedFeatures
+                0x100147ac                _twicIfLeGattBeginServiceCreation
+                0x10014860                _twicIfLeGattBeginSecondaryServiceCreation
+                0x10014924                _twicIfLeGattIncludeServiceCreation
+                0x100149fc                _twicIfLeGattAddCharacteristics
+                0x10014ac4                _twicIfLeGattSetCharacteristics
+                0x10014bc8                _twicIfLeGattSetDescriptor
+                0x10014cb8                _twicIfLeEndServiceCreation
+                0x10014d48                _twicIfLeDiscoverable
+                0x10014e90                _twicIfLeStopAdvertising
+                0x10014f1c                _twicIfGattServerExgMtuResponse
+                0x10014fbc                _twicIfGattServerCharValMultiReadOutResponse
+                0x10015084                _twicIfGattServerAttResponse
+                0x100151a8                _twicIfGattNotification
+                0x10015250                _twicIfGattIndication
+                0x100152f8                _twicIfGattServerWriteElement
+                0x100153c0                twicIfPeekEvent
+                0x100154b0                twicIfDoEvents
+                0x10015510                twicIfGattRegistration
+                0x100155cc                _twicIfGattDeregistration
+                0x100156d8                twicIfGattDeregistration
+                0x100157a4                twicIfLeRegisterCallback
+                0x100158a0                twicIfAcceptance
+                0x10015948                twicIfDbAcceptance
+ .text          0x100159e4     0x5b00 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+                0x10015c74                twicSsLeIoInitialize
+                0x10015cfc                twicSsLeIoStatus
+                0x10015d28                twicSsLeIoFinalize
+                0x100160ec                twicSsLeRequestHighPower
+                0x10016330                twicSsLeRequestLowPower
+                0x10016410                twicSsLeLowPowerStatus
+                0x10016438                twicSsLeHostLowPowerStatus
+                0x10016448                twicSsLeReset
+                0x10016464                twicSsHashCreate
+                0x100164f0                twicSsGattRegistration
+                0x1001651c                twicSsGattDeregistration
+                0x10016774                twicSsLeCePatch
+                0x10016854                twicSsLeCeFlowControl
+                0x10016a7c                twicSsLeCeSetBaudrateHc
+                0x10016b40                twicSsLeCeSetBaudrateCm
+                0x10016d4c                twicSsLeCeSetBaudrate
+                0x10016db0                twicSsLeCeHostDelay
+                0x10016e04                twicSsLeCeLowPowerInit
+                0x10016f2c                twicSsLeCeLowPowerClock
+                0x10017130                twicSsLeCeHkLowPowerInfo
+                0x10017278                twicSsLeCeHkTimeout
+                0x1001732c                twicSsLeCeLowPowerMode
+                0x10017608                twicSsLeCeLowPowerControlPin
+                0x10017658                twicSsLeCeLowPowerBackup
+                0x10017734                twicSsLeReadBdaddr
+                0x10017794                twicSsLeWriteBdaddr
+                0x10017838                twicSsLeCeChangeToCm
+                0x100178b8                twicSsLeReadRemoteVersion
+                0x1001793c                twicSsLeCreateConnection
+                0x10017b24                twicSsLeReadRemoteUsedFeatures
+                0x10017c10                twicSsReq
+                0x10017c90                twicSsToReq
+                0x10017d24                twicSsTreReq
+                0x10017dbc                twicSsFemReq
+                0x10017e68                twicSsLeConnectionUpdate
+                0x10017f70                twicSsLeDisconnect
+                0x10017fd8                twicSsGattInitialize
+                0x10018198                twicSsGattCleanup
+                0x100182ec                twicSsGattServerAddService
+                0x10018374                twicSsGattServerAddSecondaryService
+                0x100183fc                twicSsGattServerAddIncludeService
+                0x100184e0                twicSsGattServerAddCharacteristics
+                0x10018590                twicSsGattServerSetElementVl
+                0x100186d0                twicSsGattServerSetElement
+                0x100187f4                twicSsGattServerWriteElement
+                0x10018890                twicSsGattServerPackService
+                0x10018904                twicSsLeDiscoverable
+                0x10018a88                twicSsGattTransmit
+                0x10018cb4                twicSsDataConstructionCm
+                0x10018e14                twicSsDataConstructionHc
+                0x100193f4                twicSsLeReadRemoteVersionRespCm
+                0x10019478                twicSsLeAcceptCm
+                0x100195c0                twicSsLeDisconnEventCm
+                0x10019738                twicSsLeReadTxPowLevelRespCm
+                0x100197d8                twicSsLeReadRssiRespCm
+                0x1001b0f8                twicSsIsrLeDownstreamRequest
+                0x1001b138                twicSsIsrLeHostWakeup
+                0x1001b280                twicSsIsrLeStatusChanged
+                0x1001b290                twicSsPumpCompleteDataCm
+                0x1001b404                twicSsPumpCompleteDataHc
+ .text          0x1001b4e4      0xbf4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+                0x1001b5cc                tz1emInitializeSystem
+                0x1001b650                tz1emStartClock
+                0x1001b6bc                tz1emStopClock
+                0x1001b728                tz1emInitializeEntry
+                0x1001b7e0                tz1emReconfigureEntry
+                0x1001b940                tz1emConfigureEntry
+                0x1001bb38                tz1emWithdraw
+                0x1001bca4                tz1emTemporaryWithdraw
+                0x1001bd0c                tz1emIsrTemporaryWithdraw
+                0x1001bd5c                tz1emPermit
+                0x1001bdf4                tz1emParticipateIn
+                0x1001bee4                tz1emIsrParticipateIn
+                0x1001c00c                tz1emGoIntoTheShade
+                0x1001c080                tz1emIsrGoIntoTheShade
+ .text          0x1001c0d8      0x8a4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+                0x1001c0d8                tz1emUpdateWorstRequirement
+                0x1001c260                tz1emSsFindVf
+                0x1001c5b0                tz1emSsScheduleAret0Pdvfs
+                0x1001c904                tz1emSsInitializePcdSystem
+                0x1001c934                tz1emSsStartClock
+                0x1001c958                tz1emSsStopClock
+ .text          0x1001c97c      0xae8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+                0x1001cb24                BLELib_initialize
+                0x1001cb68                BLELib_finalize
+                0x1001cba0                BLELib_disconnect
+                0x1001cbd4                BLELib_registerService
+                0x1001cc0c                BLELib_startAdvertising
+                0x1001cc50                BLELib_stopAdvertising
+                0x1001cc74                BLELib_updateValue
+                0x1001ccb0                BLELib_notifyValue
+                0x1001ccec                BLELib_indicateValue
+                0x1001cd28                BLELib_requestMtuExchange
+                0x1001cd54                BLELib_getCurrentMtu
+                0x1001cd84                BLELib_run
+                0x1001cda8                BLELib_getErrorCode
+                0x1001cdd8                BLELib_getState
+                0x1001cdfc                BLELib_hasEvent
+                0x1001ce20                BLELib_setLowPowerMode
+                0x1001ce54                BLELib_discoverAllPrimaryServices
+                0x1001ce78                BLELib_discoverPrimaryServiceByUuid
+                0x1001cea8                BLELib_discoverIncludedService
+                0x1001ced8                BLELib_discoverCharacteristics
+                0x1001cf08                BLELib_discoverCharacteristicsByUuid
+                0x1001cf38                BLELib_discoverDescriptors
+                0x1001cf68                BLELib_readCharacteristic
+                0x1001cf98                BLELib_writeCharacteristic
+                0x1001cfd0                BLELib_writeCharacteristicWithoutResponse
+                0x1001d008                BLELib_readMultipleCharacteristics
+                0x1001d040                BLELib_readLongCharacteristic
+                0x1001d078                BLELib_writeLongCharacteristic
+                0x1001d0bc                BLELib_readDescriptor
+                0x1001d0ec                BLELib_writeDescriptor
+                0x1001d124                BLELib_readLongDescriptor
+                0x1001d15c                BLELib_writeLongDescriptor
+                0x1001d1a0                BLELib_startScan
+                0x1001d1c8                BLELib_stopScan
+                0x1001d1f0                BLELib_connect
+                0x1001d22c                BLELib_setDisplayPasskey
+                0x1001d25c                BLELib_setKeyboardPasskey
+                0x1001d28c                BLELib_requestSecurity
+                0x1001d2b4                BLELib_sendBondingInformation
+                0x1001d2e4                BLELib_requestPairing
+                0x1001d30c                BLELib_startEncryption
+                0x1001d33c                BLELib_copyOppositeService
+                0x1001d364                BLELib_copyOppositeCharacteristic
+                0x1001d384                BLELib_copyOppositeDescriptor
+                0x1001d3dc                BLELib_compareOppositeService
+                0x1001d41c                BLELib_compareOppositeCharacteristics
+                0x1001d440                BLELib_compareOppositeDescriptor
+ .text          0x1001d464     0x1e64 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+                0x1001d670                BLELib_Cb_setCallback
+                0x1001f130                BLELib_Cb_callNotificationSentCb
+                0x1001f164                BLELib_Cb_callIndicationConfirmCb
+                0x1001f198                BLELib_Cb_callUpdateCompleteCb
+                0x1001f1cc                BLELib_Cb_setDiscoveringServiceUuid
+                0x1001f1e8                BLELib_Cb_setReadingCharacteristic
+                0x1001f204                BLELib_Cb_setWritingCharacteristic
+                0x1001f220                BLELib_Cb_setLongReadingCharacteristic
+                0x1001f23c                BLELib_Cb_setLongWritingCharacteristic
+                0x1001f258                BLELib_Cb_setReadingDescriptor
+                0x1001f274                BLELib_Cb_setWritingDescriptor
+                0x1001f290                BLELib_Cb_setLongReadingDescriptor
+                0x1001f2ac                BLELib_Cb_setLongWritingDescriptor
+ .text          0x1001f2c8     0x412c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+                0x10020844                BLELib_PSM_entryIdToUniqueId
+                0x10020880                BLELib_PSM_uniqueIdToEntryId
+                0x100233c4                BLELib_PSM_getStateMachine
+ .text          0x100233f4        0x0 build/bootloader_TZ10xx.o
+ .text          0x100233f4        0x2 build/startup_TZ10xx.o
+                0x100233f4                DebugMon_Handler
+                0x100233f4                I2C0_IRQHandler
+                0x100233f4                HardFault_Handler
+                0x100233f4                SysTick_Handler
+                0x100233f4                PendSV_Handler
+                0x100233f4                NMI_Handler
+                0x100233f4                SRAM_M2M_IRQHandler
+                0x100233f4                UART0_IRQHandler
+                0x100233f4                SPIC_IRQHandler
+                0x100233f4                UsageFault_Handler
+                0x100233f4                SRAM_ERR_IRQHandler
+                0x100233f4                SPIM2_IRQHandler
+                0x100233f4                BOR_IRQHandler
+                0x100233f4                RTC_IRQHandler
+                0x100233f4                Default_Handler
+                0x100233f4                USB_IRQHandler
+                0x100233f4                MemManage_Handler
+                0x100233f4                WDT_IRQHandler
+                0x100233f4                SVC_Handler
+                0x100233f4                AESA_IRQHandler
+                0x100233f4                SPIM0_IRQHandler
+                0x100233f4                BusFault_Handler
+                0x100233f4                SPIM1_IRQHandler
+ *fill*         0x100233f6        0x2 
+ .text          0x100233f8      0x370 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+                0x100233f8                __aeabi_drsub
+                0x10023400                __aeabi_dsub
+                0x10023400                __subdf3
+                0x10023404                __aeabi_dadd
+                0x10023404                __adddf3
+                0x1002367c                __floatunsidf
+                0x1002367c                __aeabi_ui2d
+                0x1002369c                __floatsidf
+                0x1002369c                __aeabi_i2d
+                0x100236c0                __aeabi_f2d
+                0x100236c0                __extendsfdf2
+                0x100236fc                __floatundidf
+                0x100236fc                __aeabi_ul2d
+                0x1002370c                __floatdidf
+                0x1002370c                __aeabi_l2d
+ .text          0x10023768      0x424 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+                0x10023768                __aeabi_dmul
+                0x10023768                __muldf3
+                0x100239bc                __divdf3
+                0x100239bc                __aeabi_ddiv
+ .text          0x10023b8c      0x110 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+                0x10023b8c                __gtdf2
+                0x10023b8c                __gedf2
+                0x10023b94                __ltdf2
+                0x10023b94                __ledf2
+                0x10023b9c                __nedf2
+                0x10023b9c                __eqdf2
+                0x10023b9c                __cmpdf2
+                0x10023c18                __aeabi_cdrcmple
+                0x10023c28                __aeabi_cdcmpeq
+                0x10023c28                __aeabi_cdcmple
+                0x10023c38                __aeabi_dcmpeq
+                0x10023c4c                __aeabi_dcmplt
+                0x10023c60                __aeabi_dcmple
+                0x10023c74                __aeabi_dcmpge
+                0x10023c88                __aeabi_dcmpgt
+ .text          0x10023c9c       0xa0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+                0x10023c9c                __truncdfsf2
+                0x10023c9c                __aeabi_d2f
+ .text          0x10023d3c       0x38 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o)
+                0x10023d3c                __aeabi_ldivmod
+ .text          0x10023d74       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+                0x10023d74                __gnu_ldivmod_helper
+                0x10023da4                __gnu_uldivmod_helper
+ .text          0x10023dd4        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+                0x10023dd4                __aeabi_idiv0
+                0x10023dd4                __aeabi_ldiv0
+ .text          0x10023dd8      0x29c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+                0x10023dd8                __divdi3
+ .text          0x10024074      0x26c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                0x10024074                __udivdi3
+ .text          0x100242e0      0x134 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+                0x100242e0                memcpy
+ .text          0x10024414        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .text.memset   0x10024414       0x9c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+                0x10024414                memset
+ .text          0x100244b0        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x100244b0       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+                0x100244b0                _sprintf_r
+ .text.sprintf  0x100244f4       0x4c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+                0x100244f4                sprintf
+ .text          0x10024540        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .text._svfprintf_r
+                0x10024540     0x14d0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+                0x10024540                _svfprintf_r
+ .text          0x10025a10        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .text.quorem   0x10025a10      0x12c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ *fill*         0x10025b3c        0x4 
+ .text._dtoa_r  0x10025b40      0xe90 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+                0x10025b40                _dtoa_r
+ .text          0x100269d0        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .text          0x100269d0        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x100269d0       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x100269d0                _setlocale_r
+ .text.__locale_charset
+                0x10026a14        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a14                __locale_charset
+ .text.__locale_mb_cur_max
+                0x10026a1c        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a1c                __locale_mb_cur_max
+ .text.__locale_msgcharset
+                0x10026a28        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a28                __locale_msgcharset
+ .text.__locale_cjk_lang
+                0x10026a30        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a30                __locale_cjk_lang
+ .text._localeconv_r
+                0x10026a34        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a34                _localeconv_r
+ .text.setlocale
+                0x10026a3c       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a3c                setlocale
+ .text.localeconv
+                0x10026a4c        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x10026a4c                localeconv
+ .text          0x10026a54        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x10026a54      0x524 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x10026a54                _malloc_r
+ .text          0x10026f78        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .text.memchr   0x10026f78       0x94 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+                0x10026f78                memchr
+ .text          0x1002700c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x1002700c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+                0x1002700c                __malloc_lock
+ .text.__malloc_unlock
+                0x10027010        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+                0x10027010                __malloc_unlock
+ .text          0x10027014        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .text._Balloc  0x10027014       0x4c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027014                _Balloc
+ .text._Bfree   0x10027060       0x14 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027060                _Bfree
+ .text.__multadd
+                0x10027074       0x84 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027074                __multadd
+ .text.__s2b    0x100270f8       0x98 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100270f8                __s2b
+ .text.__hi0bits
+                0x10027190       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027190                __hi0bits
+ .text.__lo0bits
+                0x100271d0       0x5c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100271d0                __lo0bits
+ .text.__i2b    0x1002722c       0x14 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1002722c                __i2b
+ .text.__multiply
+                0x10027240      0x134 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027240                __multiply
+ .text.__pow5mult
+                0x10027374       0xa0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027374                __pow5mult
+ .text.__lshift
+                0x10027414       0xac c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027414                __lshift
+ .text.__mcmp   0x100274c0       0x48 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100274c0                __mcmp
+ .text.__mdiff  0x10027508       0xd4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027508                __mdiff
+ .text.__ulp    0x100275dc       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100275dc                __ulp
+ .text.__b2d    0x1002761c       0xc4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1002761c                __b2d
+ .text.__d2b    0x100276e0       0xb8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100276e0                __d2b
+ .text.__ratio  0x10027798       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027798                __ratio
+ .text._mprec_log10
+                0x100277f0       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x100277f0                _mprec_log10
+ .text.__copybits
+                0x10027824       0x48 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x10027824                __copybits
+ .text.__any_on
+                0x1002786c       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1002786c                __any_on
+ .text          0x100278cc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .text.__fpclassifyd
+                0x100278cc       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+                0x100278cc                __fpclassifyd
+ .text          0x10027924        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x10027924       0x24 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+                0x10027924                _sbrk_r
+ *fill*         0x10027948       0x18 
+ .text          0x10027960      0x2e0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+                0x10027968                strcmp
+ .text          0x10027c40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .text.strlen   0x10027c40       0x5c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+                0x10027c40                strlen
+ .text          0x10027c9c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .text.__ssprint_r
+                0x10027c9c      0x104 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+                0x10027c9c                __ssprint_r
+ .text._svfiprintf_r
+                0x10027da0      0xa94 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+                0x10027da0                _svfiprintf_r
+ .text          0x10028834        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .text._calloc_r
+                0x10028834       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+                0x10028834                _calloc_r
+ .text          0x10028894        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x10028894       0x9c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+                0x10028894                _malloc_trim_r
+ .text._free_r  0x10028930      0x1b0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+                0x10028930                _free_r
+ .text          0x10028ae0        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .text.memmove  0x10028ae0       0xc8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+                0x10028ae0                memmove
+ .text          0x10028ba8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x10028ba8      0x3ec c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+                0x10028ba8                _realloc_r
+ .text          0x10028f94        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x10028f94       0x1c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                0x10028f94                cleanup_glue
+ .text._reclaim_reent
+                0x10028fb0       0x88 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                0x10028fb0                _reclaim_reent
+ .text          0x10029038       0x50 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+                0x10029038                __aeabi_d2iz
+                0x10029038                __fixdfsi
+ .text          0x10029088       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+                0x10029088                __aeabi_uldivmod
+ .text          0x100290b8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .text          0x100290b8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .text          0x100290b8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .text.atan     0x100290b8      0x340 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+                0x100290b8                atan
+ .text          0x100293f8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .text.fabs     0x100293f8        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+                0x100293f8                fabs
+ .text          0x10029400        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .text.pow      0x10029400      0x2f8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+                0x10029400                pow
+ .text          0x100296f8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .text.sqrt     0x100296f8       0xac c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+                0x100296f8                sqrt
+ .text          0x100297a4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ *fill*         0x100297a4        0x4 
+ .text.__ieee754_pow
+                0x100297a8      0xa98 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+                0x100297a8                __ieee754_pow
+ .text          0x1002a240        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .text.__ieee754_sqrt
+                0x1002a240      0x188 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+                0x1002a240                __ieee754_sqrt
+ .text          0x1002a3c8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .text.finite   0x1002a3c8        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+                0x1002a3c8                finite
+ .text          0x1002a3d4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .text          0x1002a3d4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .text.matherr  0x1002a3d4        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+                0x1002a3d4                matherr
+ .text          0x1002a3d8        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .text.nan      0x1002a3d8        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+                0x1002a3d8                nan
+ .text          0x1002a3e4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .text.rint     0x1002a3e4      0x118 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+                0x1002a3e4                rint
+ .text          0x1002a4fc        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ *fill*         0x1002a4fc        0x4 
+ .text.scalbn   0x1002a500      0x108 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+                0x1002a500                scalbn
+ .text          0x1002a608        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .text.copysign
+                0x1002a608       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+                0x1002a608                copysign
+ .text          0x1002a618        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .text._sbrk    0x1002a618       0x1c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+                0x1002a618                _sbrk
+ .text          0x1002a634        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+ .text.__errno  0x1002a634        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+                0x1002a634                __errno
+ *(.init)
+ .init          0x1002a640        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ *(.fini)
+ .fini          0x1002a648        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x1002a650       0x70 build/src/main.o
+ .rodata        0x1002a6c0      0x640 build/src/ble.o
+                0x1002a6c0                bnmsg_di_manufname
+                0x1002a6c8                bnmsg_di_fw_version
+                0x1002a6cc                bnmsg_di_sw_version
+                0x1002a6d0                bnmsg_di_model_string
+                0x1002a6e0                gap_device_name
+                0x1002a710                gap_appearance
+                0x1002a740                gap_characteristics
+                0x1002a748                gap_service
+                0x1002a778                di_manuf_name
+                0x1002a7a8                di_fw_version
+                0x1002a7d8                di_sw_version
+                0x1002a808                di_model_string
+                0x1002a838                di_characteristics
+                0x1002a848                di_service
+                0x1002a878                gpio_char
+                0x1002a8a8                gpio_characteristics
+                0x1002a8b0                gpio_service
+                0x1002a8e0                pwm_0_onoff
+                0x1002a910                pwm_0_clock
+                0x1002a940                pwm_0_duty
+                0x1002a970                pwm_1_onoff
+                0x1002a9a0                pwm_1_clock
+                0x1002a9d0                pwm_1_duty
+                0x1002aa00                pwm_characteristics
+                0x1002aa18                pwm_service
+                0x1002aa48                motion_desc
+                0x1002aa70                motion_descs
+                0x1002aa78                motion_char
+                0x1002aaa8                motion_characteristics
+                0x1002aab0                motion_service
+                0x1002aae0                airp_desc
+                0x1002ab08                airp_descs
+                0x1002ab10                airp_char
+                0x1002ab40                airp_characteristics
+                0x1002ab48                airp_service
+                0x1002ab78                hrgn_service_list
+ .rodata        0x1002ad00       0x10 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .rodata        0x1002ad10       0x10 build/src/drivers/MPU-9250.o
+ .rodata        0x1002ad20       0x58 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .rodata        0x1002ad78        0x3 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ *fill*         0x1002ad7b        0x1 
+ .rodata        0x1002ad7c      0x1a8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+                0x1002adbc                Driver_ADVTMR0
+                0x1002ae14                Driver_ADVTMR1
+                0x1002ae6c                Driver_ADVTMR2
+                0x1002aec4                Driver_ADVTMR3
+ .rodata        0x1002af24       0x34 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+                0x1002af2c                Driver_GPIO
+ .rodata        0x1002af58       0x88 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+                0x1002af60                I2C1_Resources
+                0x1002af78                Driver_I2C1
+                0x1002afa0                I2C2_Resources
+                0x1002afb8                Driver_I2C2
+ .rodata        0x1002afe0      0x234 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+                0x1002afe4                Driver_PMU
+ .rodata        0x1002b214       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+                0x1002b218                Driver_RNG
+ .rodata        0x1002b234       0x34 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+                0x1002b238                Driver_SDMAC
+ .rodata        0x1002b268       0x64 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+                0x1002b288                Driver_SPI3
+ .rodata        0x1002b2cc       0xd0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+                0x1002b2e4                Driver_TMR0
+                0x1002b33c                Driver_TMR1
+ .rodata        0x1002b39c       0xe8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+                0x1002b3dc                Driver_UART1
+                0x1002b428                Driver_UART2
+ .rodata        0x1002b484       0x9c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .rodata        0x1002b520       0x70 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .rodata        0x1002b590       0x70 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .rodata        0x1002b600      0x198 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+                0x1002b600                blelib_twic_common_callback
+                0x1002b638                blelib_twic_server_callback
+                0x1002b67c                blelib_twic_client_callback
+                0x1002b6d0                blelib_twic_smp_responder_callback
+                0x1002b738                blelib_twic_smp_initiator_callback
+ .rodata        0x1002b798      0x100 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .rodata.zeroes.6916
+                0x1002b898       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x1002b8a8       0x42 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x1002b8ea        0x2 
+ .rodata.blanks.6915
+                0x1002b8ec       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x1002b8fc       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x1002b90c        0x2 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x1002b90e        0x2 
+ .rodata._global_impure_ptr
+                0x1002b910        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                0x1002b910                _global_impure_ptr
+ .rodata.str1.4
+                0x1002b914        0xa c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x1002b91e        0x2 
+ .rodata.p05.5296
+                0x1002b920        0xc c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ *fill*         0x1002b92c        0x4 
+ .rodata.__mprec_tens
+                0x1002b930       0xc8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1002b930                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x1002b9f8       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1002b9f8                __mprec_bigtens
+ .rodata.__mprec_tinytens
+                0x1002ba20       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+                0x1002ba20                __mprec_tinytens
+ .rodata.str1.4
+                0x00000000       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.6859
+                0x1002ba48       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.6860
+                0x1002ba58       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .rodata.atanlo
+                0x1002ba68       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .rodata.atanhi
+                0x1002ba88       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .rodata.str1.4
+                0x1002baa8        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .rodata.str1.4
+                0x1002baac        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ *fill*         0x1002bab4        0x4 
+ .rodata.dp_h   0x1002bab8       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.dp_l   0x1002bac8       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.bp     0x1002bad8       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.str1.4
+                0x00000000        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .rodata.TWO52  0x1002bae8       0x10 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ *(.eh_frame*)
+ .eh_frame      0x1002baf8       0x70 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .eh_frame      0x1002bb68        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+                0x1002bb6c                __code_end__ = .
+                0x0002bc68                __ecode = (LOADADDR (.text) + SIZEOF (.text))
+
+.glue_7         0x1002bb6c        0x0 load address 0x0002bc68
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x1002bb6c        0x0 load address 0x0002bc68
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x1002bb6c        0x0 load address 0x0002bc68
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x1002bb6c        0x0 load address 0x0002bc68
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x1002bb6c        0x0 load address 0x0002bc68
+ .iplt          0x00000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+
+.ARM.extab      0x1002bb6c        0x0 load address 0x0002bc68
+                0x1002bb6c                __extab_start = .
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x1002bb6c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .ARM.extab     0x1002bb6c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                0x1002bb6c                __extab_end = .
+                0x0002bc68                __eextab = (LOADADDR (.ARM.extab) + SIZEOF (.ARM.extab))
+
+.ARM.exidx      0x1002bb6c        0x8 load address 0x0002bc68
+                0x1002bb6c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x1002bb6c        0x8 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x1002bb74        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x1002bb74                __exidx_end = .
+                0x0002bc70                __etext = (LOADADDR (.ARM.exidx) + SIZEOF (.ARM.exidx))
+
+.rel.dyn        0x1002bb74        0x0 load address 0x0002bc70
+ .rel.iplt      0x00000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+
+.data           0x1002bb78      0xb10 load address 0x0002bc70
+                0x1002bb78                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x1002bb78        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .data          0x1002bb78        0x0 build/src/main.o
+ .data          0x1002bb78       0x98 build/src/ble.o
+                0x1002bb88                bnmsg_gap_device_name
+                0x1002bba8                bnmsg_advertising_data
+                0x1002bbc0                bnmsg_scan_resp_data
+                0x1002bbd4                tz01_common_callbacks
+                0x1002bbf0                tz01_server_callbacks
+ .data          0x1002bc10        0xc build/src/pwm_out.o
+ .data          0x1002bc1c        0x0 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .data          0x1002bc1c        0x4 build/src/boards/CDP-TZ01B/TZ01_console.o
+                0x1002bc1c                tz10xx_drv_uart
+ .data          0x1002bc20        0x0 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .data          0x1002bc20        0xc build/src/boards/CDP-TZ01B/TZ01_system.o
+ .data          0x1002bc2c        0x4 build/src/drivers/BMP280.o
+ .data          0x1002bc30        0x0 build/src/drivers/MPU-9250.o
+ .data          0x1002bc30        0x0 build/src/utils/utils.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .data          0x1002bc30        0x0 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .data          0x1002bc30        0x8 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+                0x1002bc30                tz1utList_tz1sm_hal_timer_chain_root
+ .data          0x1002bc38        0x4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+                0x1002bc38                SystemCoreClock
+ .data          0x1002bc3c        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .data          0x1002bc3c        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .data          0x1002bc3c        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .data          0x1002bc3c        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .data          0x1002bc3c        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .data          0x1002bc3c       0x68 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .data          0x1002bca4        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .data          0x1002bca4        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .data          0x1002bca4        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .data          0x1002bca4        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .data          0x1002bca4        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .data          0x1002bca4       0x1c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+                0x1002bca4                tz1utList_srv_accept_root
+                0x1002bcac                tz1utList_srv_req_root
+                0x1002bcb4                tz1utList_srv_instance_root
+ .data          0x1002bcc0       0x10 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+                0x1002bcc0                tz1utList_tz1em_vf_ac_root
+                0x1002bcc8                tz1utList_tz1em_vf_na_root
+ .data          0x1002bcd0        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .data          0x1002bcd0        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .data          0x1002bcd0        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .data          0x1002bcd0       0xf4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .data          0x1002bdc4        0x0 build/bootloader_TZ10xx.o
+ .data          0x1002bdc4        0x0 build/startup_TZ10xx.o
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .data          0x1002bdc4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ *fill*         0x1002bdc4        0x4 
+ .data.impure_data
+                0x1002bdc8      0x428 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x1002c1f0        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+                0x1002c1f0                _impure_ptr
+ .data          0x1002c1f4        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x1002c1f4       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.lconv    0x1002c214       0x38 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x1002c24c       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x1002c26c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x1002c26c                __mb_cur_max
+ .data          0x1002c270        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x1002c270      0x408 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x1002c270                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x1002c678        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x1002c678                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x1002c67c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x1002c67c                __malloc_sbrk_base
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .data          0x1002c680        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .data.__fdlib_version
+                0x1002c680        0x1 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+                0x1002c680                __fdlib_version
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .data          0x1002c681        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+                0x1002c684                . = ALIGN (0x4)
+ *fill*         0x1002c681        0x3 
+                0x1002c684                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x1002c684                PROVIDE (__preinit_array_end, .)
+                0x1002c684                . = ALIGN (0x4)
+                0x1002c684                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x1002c684                PROVIDE (__init_array_end, .)
+                0x1002c684                . = ALIGN (0x4)
+                0x1002c684                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x1002c684                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x1002c684        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+                0x1002c688                . = ALIGN (0x4)
+                0x1002c688                __data_end__ = .
+                0x0002c780                __edata = (LOADADDR (.data) + SIZEOF (.data))
+
+.igot.plt       0x1002c688        0x0 load address 0x0002c780
+ .igot.plt      0x00000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+
+.bss            0x20000000     0x2304
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000000        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .bss           0x20000000        0x4 build/src/main.o
+                0x20000000                which_mode
+ *fill*         0x20000004        0x4 
+ .bss           0x20000008       0xc0 build/src/ble.o
+                0x20000010                time_val
+                0x20000068                bnmsg_gap_appearance
+ .bss           0x200000c8        0x4 build/src/pwm_out.o
+ .bss           0x200000cc        0x0 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .bss           0x200000cc        0x0 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .bss           0x200000cc        0x0 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .bss           0x200000cc       0x28 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .bss           0x200000f4       0x1c build/src/drivers/BMP280.o
+ .bss           0x20000110       0x14 build/src/drivers/MPU-9250.o
+ .bss           0x20000124        0x0 build/src/utils/utils.o
+ .bss           0x20000124        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .bss           0x20000125        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .bss           0x20000126        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .bss           0x20000127        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .bss           0x20000128        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .bss           0x20000129        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .bss           0x2000012a        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .bss           0x2000012b        0x1 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .bss           0x2000012c      0x45c build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .bss           0x20000588        0x0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .bss           0x20000588       0x50 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .bss           0x200005d8       0x88 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .bss           0x20000660       0x40 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .bss           0x200006a0       0x3c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .bss           0x200006dc        0x4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .bss           0x200006e0       0x64 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .bss           0x20000744       0x24 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .bss           0x20000768       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .bss           0x20000788      0x168 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .bss           0x200008f0        0x8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .bss           0x200008f8       0x14 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .bss           0x2000090c       0xc4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .bss           0x200009d0        0x8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .bss           0x200009d8        0x8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .bss           0x200009e0        0x8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .bss           0x200009e8       0xf8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .bss           0x20000ae0     0x1420 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .bss           0x20001f00        0x0 build/bootloader_TZ10xx.o
+ .bss           0x20001f00        0x0 build/startup_TZ10xx.o
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .bss           0x20001f00        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x20001f00        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x20001f00                _PathLocale
+ .bss.__nlocale_changed
+                0x20001f04        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x20001f04                __nlocale_changed
+ .bss.__mlocale_changed
+                0x20001f08        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+                0x20001f08                __mlocale_changed
+ .bss           0x20001f0c        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x20001f0c        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20001f0c                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20001f10        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20001f10                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20001f14        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20001f14                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20001f18       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+                0x20001f18                __malloc_current_mallinfo
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .bss           0x20001f40        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .bss.heap_end.4079
+                0x20001f40        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .bss           0x20001f44        0x0 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+ *(COMMON)
+ *fill*         0x20001f44        0x4 
+ COMMON         0x20001f48       0x76 build/src/main.o
+                0x20001f48                end_t
+                0x20001f50                uniq
+                0x20001f58                msg
+                0x20001fa8                start_t
+                0x20001fb0                val
+                0x20001fb4                buf
+ *fill*         0x20001fbe        0x2 
+ COMMON         0x20001fc0      0x340 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+                0x20001fc0                tz1em_BLE_IDLE
+                0x20001ffc                tz1em_BLE_NC_ADV
+                0x20002038                tz1em_BLE_CN_ADV
+                0x20002074                tz1em_BLE_CONN
+                0x200020b0                twic_eq
+ COMMON         0x20002300        0x4 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+                0x20002300                errno
+                0x20002304                . = ALIGN (0x4)
+                0x20002304                __bss_end__ = .
+
+.heap           0x20002308      0xc00
+                0x20002308                __end__ = .
+                0x20002308                end = __end__
+ *(.heap*)
+ .heap          0x20002308      0xc00 build/startup_TZ10xx.o
+                0x20002308                __heap_base
+                0x20002f08                __heap_limit = .
+
+.stack_dummy    0x20002308      0x400
+ *(.stack*)
+ .stack         0x20002308      0x400 build/startup_TZ10xx.o
+                0x20008000                __initial_sp = (ORIGIN (RAM2) + 0x8000)
+                0x20007c00                __stack_limit = (__initial_sp - SIZEOF (.stack_dummy))
+                0x20008000                PROVIDE (__stack, __initial_sp)
+                0x00000001                ASSERT ((__stack_limit >= __heap_limit), region RAM2 overflowed with stack)
+OUTPUT(hyourowgan.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x61854
+ .debug_info    0x00000000       0x37 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .debug_info    0x00000037     0x1679 build/src/main.o
+ .debug_info    0x000016b0     0x2597 build/src/ble.o
+ .debug_info    0x00003c47     0x11bf build/src/pwm_out.o
+ .debug_info    0x00004e06      0x3cb build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .debug_info    0x000051d1     0x133c build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_info    0x0000650d      0x950 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_info    0x00006e5d     0x162f build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_info    0x0000848c      0x7c9 build/src/drivers/BMP280.o
+ .debug_info    0x00008c55      0xb0f build/src/drivers/MPU-9250.o
+ .debug_info    0x00009764      0x13d build/src/utils/utils.o
+ .debug_info    0x000098a1      0x3c3 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .debug_info    0x00009c64     0x1dec build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .debug_info    0x0000ba50     0x1ba5 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .debug_info    0x0000d5f5     0x2526 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .debug_info    0x0000fb1b     0x2ec5 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .debug_info    0x000129e0      0x3c3 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .debug_info    0x00012da3     0x1b3d build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .debug_info    0x000148e0     0x1bfd build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .debug_info    0x000164dd     0x8388 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .debug_info    0x0001e865      0x289 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .debug_info    0x0001eaee     0x6f16 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .debug_info    0x00025a04     0x212f build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_info    0x00027b33     0x2c9b build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .debug_info    0x0002a7ce     0xad79 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_info    0x00035547      0xfd7 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .debug_info    0x0003651e     0x7575 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .debug_info    0x0003da93     0x2839 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_info    0x000402cc     0x252d build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_info    0x000427f9     0x2e2e build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .debug_info    0x00045627     0x1d19 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .debug_info    0x00047340     0x4844 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .debug_info    0x0004bb84     0x6853 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .debug_info    0x000523d7     0x10b0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .debug_info    0x00053487      0xa5c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .debug_info    0x00053ee3     0x1fb9 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .debug_info    0x00055e9c     0x462e build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .debug_info    0x0005a4ca     0x7219 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .debug_info    0x000616e3       0xbc build/bootloader_TZ10xx.o
+ .debug_info    0x0006179f       0xb5 build/startup_TZ10xx.o
+
+.debug_abbrev   0x00000000     0x5df1
+ .debug_abbrev  0x00000000       0x2c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .debug_abbrev  0x0000002c      0x1eb build/src/main.o
+ .debug_abbrev  0x00000217      0x390 build/src/ble.o
+ .debug_abbrev  0x000005a7      0x1bd build/src/pwm_out.o
+ .debug_abbrev  0x00000764      0x133 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .debug_abbrev  0x00000897      0x1ef build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_abbrev  0x00000a86      0x194 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_abbrev  0x00000c1a      0x255 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_abbrev  0x00000e6f      0x1a4 build/src/drivers/BMP280.o
+ .debug_abbrev  0x00001013      0x1ff build/src/drivers/MPU-9250.o
+ .debug_abbrev  0x00001212       0xb6 build/src/utils/utils.o
+ .debug_abbrev  0x000012c8      0x158 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .debug_abbrev  0x00001420      0x22b build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .debug_abbrev  0x0000164b      0x26e build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .debug_abbrev  0x000018b9      0x276 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .debug_abbrev  0x00001b2f      0x2de build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .debug_abbrev  0x00001e0d      0x158 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .debug_abbrev  0x00001f65      0x220 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .debug_abbrev  0x00002185      0x25f build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .debug_abbrev  0x000023e4      0x425 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .debug_abbrev  0x00002809       0xc7 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .debug_abbrev  0x000028d0      0x330 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .debug_abbrev  0x00002c00      0x333 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_abbrev  0x00002f33      0x33b build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .debug_abbrev  0x0000326e      0x3e6 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_abbrev  0x00003654      0x231 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .debug_abbrev  0x00003885      0x3a6 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .debug_abbrev  0x00003c2b      0x301 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_abbrev  0x00003f2c      0x330 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_abbrev  0x0000425c      0x357 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .debug_abbrev  0x000045b3      0x2c5 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .debug_abbrev  0x00004878      0x38c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .debug_abbrev  0x00004c04      0x412 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .debug_abbrev  0x00005016      0x2e9 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .debug_abbrev  0x000052ff      0x25d build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .debug_abbrev  0x0000555c      0x2c8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .debug_abbrev  0x00005824      0x2ab build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .debug_abbrev  0x00005acf      0x2fc build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .debug_abbrev  0x00005dcb       0x14 build/bootloader_TZ10xx.o
+ .debug_abbrev  0x00005ddf       0x12 build/startup_TZ10xx.o
+
+.debug_aranges  0x00000000      0x508
+ .debug_aranges
+                0x00000000       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .debug_aranges
+                0x00000020       0x20 build/src/main.o
+ .debug_aranges
+                0x00000040       0x20 build/src/ble.o
+ .debug_aranges
+                0x00000060       0x20 build/src/pwm_out.o
+ .debug_aranges
+                0x00000080       0x20 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .debug_aranges
+                0x000000a0       0x20 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_aranges
+                0x000000c0       0x20 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_aranges
+                0x000000e0       0x20 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_aranges
+                0x00000100       0x20 build/src/drivers/BMP280.o
+ .debug_aranges
+                0x00000120       0x20 build/src/drivers/MPU-9250.o
+ .debug_aranges
+                0x00000140       0x20 build/src/utils/utils.o
+ .debug_aranges
+                0x00000160       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .debug_aranges
+                0x00000180       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .debug_aranges
+                0x000001a0       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .debug_aranges
+                0x000001c0       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .debug_aranges
+                0x000001e0       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .debug_aranges
+                0x00000200       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .debug_aranges
+                0x00000220       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .debug_aranges
+                0x00000240       0x20 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .debug_aranges
+                0x00000260       0x20 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .debug_aranges
+                0x00000280       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .debug_aranges
+                0x000002a0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .debug_aranges
+                0x000002c0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_aranges
+                0x000002e0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .debug_aranges
+                0x00000300       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_aranges
+                0x00000320       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .debug_aranges
+                0x00000340       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .debug_aranges
+                0x00000360       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_aranges
+                0x00000380       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_aranges
+                0x000003a0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .debug_aranges
+                0x000003c0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .debug_aranges
+                0x000003e0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .debug_aranges
+                0x00000400       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .debug_aranges
+                0x00000420       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .debug_aranges
+                0x00000440       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .debug_aranges
+                0x00000460       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .debug_aranges
+                0x00000480       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .debug_aranges
+                0x000004a0       0x20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .debug_aranges
+                0x000004c0       0x20 build/bootloader_TZ10xx.o
+ .debug_aranges
+                0x000004e0       0x28 build/startup_TZ10xx.o
+
+.debug_line     0x00000000     0xaa7f
+ .debug_line    0x00000000       0x3d c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .debug_line    0x0000003d      0x336 build/src/main.o
+ .debug_line    0x00000373      0x4e7 build/src/ble.o
+ .debug_line    0x0000085a      0x1b9 build/src/pwm_out.o
+ .debug_line    0x00000a13      0x183 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .debug_line    0x00000b96      0x244 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_line    0x00000dda      0x26e build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_line    0x00001048      0x27a build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_line    0x000012c2      0x294 build/src/drivers/BMP280.o
+ .debug_line    0x00001556      0x32b build/src/drivers/MPU-9250.o
+ .debug_line    0x00001881      0x181 build/src/utils/utils.o
+ .debug_line    0x00001a02      0x236 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .debug_line    0x00001c38      0x294 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .debug_line    0x00001ecc      0x287 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .debug_line    0x00002153      0x50c build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .debug_line    0x0000265f      0x5ab build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .debug_line    0x00002c0a      0x236 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .debug_line    0x00002e40      0x264 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .debug_line    0x000030a4      0x28b build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .debug_line    0x0000332f      0x9d8 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .debug_line    0x00003d07      0x14c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .debug_line    0x00003e53      0x492 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .debug_line    0x000042e5      0x459 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_line    0x0000473e      0x480 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .debug_line    0x00004bbe      0xad8 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_line    0x00005696      0x26e build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .debug_line    0x00005904      0x3fa build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .debug_line    0x00005cfe      0x571 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_line    0x0000626f      0x311 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_line    0x00006580      0x402 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .debug_line    0x00006982      0x326 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .debug_line    0x00006ca8      0x9c6 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .debug_line    0x0000766e     0x1195 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .debug_line    0x00008803      0x634 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .debug_line    0x00008e37      0x3e0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .debug_line    0x00009217      0x3ad build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .debug_line    0x000095c4      0x6c9 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .debug_line    0x00009c8d      0xc94 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .debug_line    0x0000a921       0xc5 build/bootloader_TZ10xx.o
+ .debug_line    0x0000a9e6       0x99 build/startup_TZ10xx.o
+
+.debug_str      0x00000000    0x1b33f
+ .debug_str     0x00000000       0xd6 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+                                 0xdd (size before relaxing)
+ .debug_str     0x000000d6     0x1c64 build/src/main.o
+                               0x21e4 (size before relaxing)
+ .debug_str     0x00001d3a      0xfde build/src/ble.o
+                               0x2c0f (size before relaxing)
+ .debug_str     0x00002d18      0x4d5 build/src/pwm_out.o
+                               0x1dbc (size before relaxing)
+ .debug_str     0x000031ed       0x75 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+                                0x506 (size before relaxing)
+ .debug_str     0x00003262      0x576 build/src/boards/CDP-TZ01B/TZ01_console.o
+                               0x1e93 (size before relaxing)
+ .debug_str     0x000037d8      0x171 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+                                0xa2d (size before relaxing)
+ .debug_str     0x00003949      0x222 build/src/boards/CDP-TZ01B/TZ01_system.o
+                               0x21f1 (size before relaxing)
+ .debug_str     0x00003b6b      0x192 build/src/drivers/BMP280.o
+                                0x630 (size before relaxing)
+ .debug_str     0x00003cfd      0x24c build/src/drivers/MPU-9250.o
+                                0xb47 (size before relaxing)
+ .debug_str     0x00003f49       0x1d build/src/utils/utils.o
+                                0x1e8 (size before relaxing)
+ .debug_str     0x00003f66       0x2f build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+                                0x5c9 (size before relaxing)
+ .debug_str     0x00003f95     0x16cc build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+                               0x1e17 (size before relaxing)
+ .debug_str     0x00005661       0xe7 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+                               0x1d4b (size before relaxing)
+ .debug_str     0x00005748     0x12e5 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+                               0x30f7 (size before relaxing)
+ .debug_str     0x00006a2d      0x4be build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+                               0x34a9 (size before relaxing)
+ .debug_str     0x00006eeb       0x2b build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+                                0x5c5 (size before relaxing)
+ .debug_str     0x00006f16       0x43 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+                               0x1f8b (size before relaxing)
+ .debug_str     0x00006f59      0x11f build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+                               0x1d90 (size before relaxing)
+ .debug_str     0x00007078     0x4478 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+                               0x7248 (size before relaxing)
+ .debug_str     0x0000b4f0       0xaf build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+                                0x269 (size before relaxing)
+ .debug_str     0x0000b59f     0x28cb build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+                               0x4986 (size before relaxing)
+ .debug_str     0x0000de6a      0x733 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+                               0x268c (size before relaxing)
+ .debug_str     0x0000e59d      0xb50 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+                               0x2ba2 (size before relaxing)
+ .debug_str     0x0000f0ed     0x28c4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+                               0x89b5 (size before relaxing)
+ .debug_str     0x000119b1      0x14f build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+                               0x1906 (size before relaxing)
+ .debug_str     0x00011b00     0x1d25 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+                               0x53b5 (size before relaxing)
+ .debug_str     0x00013825      0x515 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+                               0x24ce (size before relaxing)
+ .debug_str     0x00013d3a      0x3fc build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+                               0x2a77 (size before relaxing)
+ .debug_str     0x00014136      0x9e1 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+                               0x2d99 (size before relaxing)
+ .debug_str     0x00014b17      0x16a build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+                               0x1d8b (size before relaxing)
+ .debug_str     0x00014c81      0xc8f build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+                               0x4108 (size before relaxing)
+ .debug_str     0x00015910     0x1a28 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+                               0x43a8 (size before relaxing)
+ .debug_str     0x00017338      0x249 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+                                0xc6b (size before relaxing)
+ .debug_str     0x00017581      0x22f build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+                                0xc03 (size before relaxing)
+ .debug_str     0x000177b0     0x12a5 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+                               0x231f (size before relaxing)
+ .debug_str     0x00018a55     0x10a1 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+                               0x3bba (size before relaxing)
+ .debug_str     0x00019af6     0x1849 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+                               0x6b12 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/src/main.o
+ .comment       0x00000000       0x71 build/src/ble.o
+ .comment       0x00000000       0x71 build/src/pwm_out.o
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .comment       0x00000000       0x71 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .comment       0x00000000       0x71 build/src/drivers/BMP280.o
+ .comment       0x00000000       0x71 build/src/drivers/MPU-9250.o
+ .comment       0x00000000       0x71 build/src/utils/utils.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .comment       0x00000000       0x71 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .comment       0x00000000       0x71 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x33 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .ARM.attributes
+                0x00000033       0x37 build/src/main.o
+ .ARM.attributes
+                0x0000006a       0x37 build/src/ble.o
+ .ARM.attributes
+                0x000000a1       0x37 build/src/pwm_out.o
+ .ARM.attributes
+                0x000000d8       0x37 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .ARM.attributes
+                0x0000010f       0x37 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .ARM.attributes
+                0x00000146       0x37 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .ARM.attributes
+                0x0000017d       0x37 build/src/boards/CDP-TZ01B/TZ01_system.o
+ .ARM.attributes
+                0x000001b4       0x37 build/src/drivers/BMP280.o
+ .ARM.attributes
+                0x000001eb       0x37 build/src/drivers/MPU-9250.o
+ .ARM.attributes
+                0x00000222       0x37 build/src/utils/utils.o
+ .ARM.attributes
+                0x00000259       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .ARM.attributes
+                0x00000290       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .ARM.attributes
+                0x000002c7       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .ARM.attributes
+                0x000002fe       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .ARM.attributes
+                0x00000335       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .ARM.attributes
+                0x0000036c       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .ARM.attributes
+                0x000003a3       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .ARM.attributes
+                0x000003da       0x37 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .ARM.attributes
+                0x00000411       0x37 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .ARM.attributes
+                0x00000448       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .ARM.attributes
+                0x0000047f       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .ARM.attributes
+                0x000004b6       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .ARM.attributes
+                0x000004ed       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .ARM.attributes
+                0x00000524       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .ARM.attributes
+                0x0000055b       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .ARM.attributes
+                0x00000592       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .ARM.attributes
+                0x000005c9       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .ARM.attributes
+                0x00000600       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .ARM.attributes
+                0x00000637       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .ARM.attributes
+                0x0000066e       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .ARM.attributes
+                0x000006a5       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .ARM.attributes
+                0x000006dc       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .ARM.attributes
+                0x00000713       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .ARM.attributes
+                0x0000074a       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .ARM.attributes
+                0x00000781       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .ARM.attributes
+                0x000007b8       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .ARM.attributes
+                0x000007ef       0x37 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .ARM.attributes
+                0x00000826       0x1f build/bootloader_TZ10xx.o
+ .ARM.attributes
+                0x00000845       0x1f build/startup_TZ10xx.o
+ .ARM.attributes
+                0x00000864       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000886       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000008a8       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x000008ca       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000008ec       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000090e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000940       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000962       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000994       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000009c6       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000009e6       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000a18       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000a4a       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000a7c       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000aae       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000ae0       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000b12       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000b44       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000b76       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000ba8       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000bda       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000c0c       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000c3e       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000c5e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000c90       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000cc2       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000cf4       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000d26       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000d58       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000d8a       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000dbc       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000dde       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000e00       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .ARM.attributes
+                0x00000e32       0x22 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .ARM.attributes
+                0x00000e54       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .ARM.attributes
+                0x00000e86       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x00000eb8       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x00000eea       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x00000f1c       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x00000f4e       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x00000f80       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x00000fb2       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x00000fe4       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x00001016       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x00001048       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x0000107a       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000010ac       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x000010de       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00001110       0x32 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+
+.debug_frame    0x00000000     0xcd18
+ .debug_frame   0x00000000       0x2c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/tz10xx-crt0.o
+ .debug_frame   0x0000002c       0x88 build/src/main.o
+ .debug_frame   0x000000b4      0x490 build/src/ble.o
+ .debug_frame   0x00000544       0x7c build/src/pwm_out.o
+ .debug_frame   0x000005c0       0x74 build/src/boards/CDP-TZ01B/TZ01_airpressure.o
+ .debug_frame   0x00000634      0x110 build/src/boards/CDP-TZ01B/TZ01_console.o
+ .debug_frame   0x00000744      0x110 build/src/boards/CDP-TZ01B/TZ01_motion_tracker.o
+ .debug_frame   0x00000854      0x18c build/src/boards/CDP-TZ01B/TZ01_system.o
+ .debug_frame   0x000009e0      0x1d0 build/src/drivers/BMP280.o
+ .debug_frame   0x00000bb0      0x178 build/src/drivers/MPU-9250.o
+ .debug_frame   0x00000d28       0x38 build/src/utils/utils.o
+ .debug_frame   0x00000d60       0xe0 build/RTE/Middleware/TZ1001MBG/twic_util_advertise.o
+ .debug_frame   0x00000e40      0x2c0 build/RTE/Middleware/TZ1001MBG/twic_util_ancs.o
+ .debug_frame   0x00001100      0x220 build/RTE/Middleware/TZ1001MBG/twic_util_hrp.o
+ .debug_frame   0x00001320      0x3c0 build/RTE/Middleware/TZ1001MBG/twic_util_init.o
+ .debug_frame   0x000016e0      0x758 build/RTE/Middleware/TZ1001MBG/twic_util_lemng.o
+ .debug_frame   0x00001e38       0xe0 build/RTE/Middleware/TZ1001MBG/twic_util_lesmp.o
+ .debug_frame   0x00001f18      0x108 build/RTE/Middleware/TZ1001MBG/twic_util_service.o
+ .debug_frame   0x00002020      0x268 build/RTE/Middleware/TZ1001MBG/twic_util_udp.o
+ .debug_frame   0x00002288      0x988 build/RTE/Middleware/TZ1001MBG/tz1sm_hal.o
+ .debug_frame   0x00002c10       0x50 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Device/Source/system_TZ10xx.o
+ .debug_frame   0x00002c60     0x105c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/ADVTMR_TZ10xx.o
+ .debug_frame   0x00003cbc      0x6c0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/GPIO_TZ10xx.o
+ .debug_frame   0x0000437c      0x53c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/I2C_TZ10xx.o
+ .debug_frame   0x000048b8      0x8a4 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/PMU_TZ10xx.o
+ .debug_frame   0x0000515c      0x124 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/RNG_TZ10xx.o
+ .debug_frame   0x00005280      0x440 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SDMAC_TZ10xx.o
+ .debug_frame   0x000056c0      0x538 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/SPI_TZ10xx.o
+ .debug_frame   0x00005bf8      0x6dc build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/TMR_TZ10xx.o
+ .debug_frame   0x000062d4      0x85c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/RTE_Driver/UART_TZ10xx.o
+ .debug_frame   0x00006b30      0x27c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_hash.o
+ .debug_frame   0x00006dac      0xb20 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .debug_frame   0x000078cc     0x13cc build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_service.o
+ .debug_frame   0x00008c98      0x338 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em.o
+ .debug_frame   0x00008fd0      0x1d0 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/tz1em_service.o
+ .debug_frame   0x000091a0      0x77c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib.o
+ .debug_frame   0x0000991c      0xf0c build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_callback.o
+ .debug_frame   0x0000a828     0x1988 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/blelib/blelib_peripheral_statemachine.o
+ .debug_frame   0x0000c1b0       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000c1d8       0x50 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(bpabi.o)
+ .debug_frame   0x0000c228       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_divdi3.o)
+ .debug_frame   0x0000c25c       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_udivdi3.o)
+ .debug_frame   0x0000c28c       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memset.o)
+ .debug_frame   0x0000c2c0       0x84 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x0000c344       0x40 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000c384       0x88 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x0000c40c       0x9c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-locale.o)
+ .debug_frame   0x0000c4a8       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000c500       0x3c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000c53c       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000c56c      0x268 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000c7d4       0x34 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x0000c808       0x2c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000c834       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000c854       0x78 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000c8cc       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000c8f4       0x74 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-freer.o)
+ .debug_frame   0x0000c968       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000c998       0x60 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000c9f8       0x58 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-reent.o)
+ .debug_frame   0x0000ca50       0x28 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000ca78       0x38 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_atan.o)
+ .debug_frame   0x0000cab0       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x0000cad0       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x0000cb14       0x44 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x0000cb58       0x64 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x0000cbbc       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x0000cbec       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x0000cc0c       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x0000cc2c       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x0000cc4c       0x3c c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x0000cc88       0x30 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x0000ccb8       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x0000ccd8       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libnosys.a(sbrk.o)
+ .debug_frame   0x0000ccf8       0x20 c:/cerevo/cdp-tz01b/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a(lib_a-errno.o)
+
+.debug_ranges   0x00000000       0x38
+ .debug_ranges  0x00000000       0x18 build/_SDK/TOSHIBA.TZ10xx_DFP.1.35.0/Middleware/TWiC/twic_interface.o
+ .debug_ranges  0x00000018       0x20 build/startup_TZ10xx.o
